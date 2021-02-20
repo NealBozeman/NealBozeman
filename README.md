@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Chances, a new digitial currency that's unlike BitCoin.
+- 🌱 I’m currently learning Zero Knowledge Proofs and Romanian
+- 👯 I’m looking to collaborate on Chances Foundation and new projects
+- 🤔 I’m always looking for help with math, economics, and technology.
+- 💬 Ask me about money and economics.
+- 📫 How to reach me: neal at nealbozeman.com](https://nealbozeman.com "Neal's Homepage")
 
 <!--
 **NealBozeman/NealBozeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
