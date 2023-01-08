@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Metric DC, a central bank digitial currency that's unlike BitCoin.
+- 🔭 I’m currently working on Metric DC, a central bank digital currency that's unlike BitCoin.
 - 🌱 I’m currently learning Zero Knowledge Proofs and the Romanian language
 - 👯 I’m looking to collaborate on The 3rd Party Central Bank Organization and new projects
-- 🤔 I’m always looking for help with math, economics, and technology.
+- 🤔 I’m always looking to talk about economics, and technology.
 - 💬 Ask me about money and economics.
 - 📫 How to reach me: [neal at nealbozeman.com](https://nealbozeman.com "Neal's Homepage")
 
