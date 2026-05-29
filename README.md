@@ -33,7 +33,7 @@
 
 ## 🎓 About me…
 
-- Creator of [https://autocatch.mx](Autocatch) - an open source email catch-all
+- Creator of [Autocatch](https://autocatch.mx) - an open source email catch-all
 
 - **MSc in Innovation & Entrepreneurship** — **HEC Paris**&#x20;
 
