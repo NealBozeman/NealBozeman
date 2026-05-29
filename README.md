@@ -1,22 +1,53 @@
-### Hi there 👋
-- 🔭 I’m currently working on Metric DC, a central bank digital currency that's unlike BitCoin.
-- 🌱 I’m currently learning Zero Knowledge Proofs and the Romanian language
-- 👯 I’m looking to collaborate on The 3rd Party Central Bank Organization and new projects
-- 🤔 I’m always looking to talk about economics, and technology.
-- 💬 Ask me about money and economics.
-- 📫 How to reach me: [neal at nealbozeman.com](https://nealbozeman.com "Neal's Homepage")
+# Hi there, I'm Neal! 👋
 
-<!--
-**NealBozeman/NealBozeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Architect & Technology Leader
 
-Here are some ideas to get you started:
+**Seeking EU Work Sponsorship** • Located in Europe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ I've Built & Scaled…
+
+- Trails.com (now AllTrails.com)
+
+- Seacoast.com - subscription based ecommerce
+
+- Menugo.com & MustHaveMenus.com - Subscription based restaurant menu designs, hosting, and printing.
+
+- Microsoft - HomeAdvisor
+
+
+## ⚡ My personal stack…
+
+- TypeScript/JavaScript
+
+- Python
+
+- Postgres w/Drizzle
+
+- Svelte
+
+- KiloCode & Pi
+
+- PM2 or Docker
+
+
+## 🎓 About me…
+
+- Creator of [https://autocatch.mx](Autocatch) - an open source email catch-all
+
+- **MSc in Innovation & Entrepreneurship** — **HEC Paris**&#x20;
+
+- Placed in the **Top 1%** of Technical Product Managers on Crossover
+
+
+## 📬 Let's Connect!
+
+I am currently in Europe and available for sponsored roles across the EU.
+
+- 📧 **Email:** [neal@nealbozeman.com](mailto:neal@nealbozeman.com "null")
+
+- 💼 **LinkedIn:** [linkedin.com/in/nealbozeman](https://www.linkedin.com/in/nealbozeman "null")
+
+- 🌍 **Personal Website:** [nealbozeman.com](https://nealbozeman.com "null")
+
+- 📱 **WhatsApp:** [+1 (206) 931-6052](https://wa.me/12069316052 "null")
