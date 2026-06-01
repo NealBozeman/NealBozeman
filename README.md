@@ -2,7 +2,7 @@
 
 ### Product Architect & Technology Leader
 
-**Seeking EU Work Sponsorship** • Located in Europe
+**Seeking EU Blue Card Sponsorship** • Located in Europe
 
 
 ## 🛠️ I've Built & Scaled…
